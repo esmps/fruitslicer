@@ -1,7 +1,7 @@
 # Fruit Slicer!
 Fruit slicing game using HTML/CSS/jQuery.
 
-![fruit slicer, title](images/title.png)
+![fruit slicer, title](images/titlegithub.png)
 
 ## Instructions: 
 Slice as many fruits as you can by scrolling your mouse over each one (no clicking!). But ... watch out for the *BOMBS*!
